@@ -64,7 +64,9 @@ body{
 .info{
     font-family: "Indie Flower", sans-serif;
     text-align: center;
-    font-size: 1.2vw;
+    width: 30vw;
+    height:30vh;
+      
 }
 
 #shieldtext{
