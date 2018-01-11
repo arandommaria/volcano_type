@@ -6,7 +6,7 @@
 #title{
     text-align: center;
     font-family: "Indie Flower",sans-serif;
-    font-size: 2vw;
+    font-size: 1.5vw;
 }
 
 #wrapper {
@@ -31,8 +31,8 @@ body{
 
 /*figure out what to do with prefixes. Most recent versions of browsers support these without prefix- should I add them anyway?*/
 .fixed{
-    width:15%;
-    height:15%;
+    width:10%;
+    height:10%;
     padding-left: 2.5%;
     padding-right: 2.5%;
     padding-bottom: 5%;
@@ -55,7 +55,7 @@ body{
 
 .infoim{
     position: fixed;
-    top:45%;
+    top:40%;
     left:50%;
     width: 30vw;
 }
@@ -67,26 +67,26 @@ body{
 
 #shieldtext{
     position: fixed;
-    top: 45%;
+    top: 40%;
     left: 10%;
     width: 40vw;
-    font-size: 1.8vw;
+    font-size: 1.5vw;
 }
 
 #compositetext{
     position: fixed;
-    top: 45%;
+    top: 40%;
     left: 10%;
     width: 40vw;
-    font-size: 1.8vw;
+    font-size: 1.5vw;
 }
 
 #cindertext{
     position: fixed;
-    top: 45%;
+    top: 40%;
     left: 10%;
     width: 40vw;
-    font-size: 1.8vw;
+    font-size: 1.5vw;
 }
 
 .bold{
